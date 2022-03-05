@@ -2,7 +2,10 @@
 
 The files in this repository were used to configure the network depicted below.
 
-[Dalans week 12 homework diagram.drawio.pdf](https://github.com/Daw4114/Orochi-ELK_Project/files/8189577/Dalans.week.12.homework.diagram.drawio.pdf)
+
+
+THE NETWORK DIAGRAM
+![Screenshot (266)](https://user-images.githubusercontent.com/89820505/156865266-7fab235a-8ecb-4ff0-a561-7ba34814e0c4.png)
 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the yml and config file may be used to install only certain pieces of it, such as Filebeat.
